@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bigm-1405
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning pythone
+- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on idk
 - 📫 How to reach me on discord @bigm2010
 - 😄 Pronouns: he/him
